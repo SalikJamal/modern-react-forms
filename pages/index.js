@@ -32,7 +32,7 @@ export default function Home() {
     return (
         <m.div className="absolute w-full" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
             <Head>
-                <title>Modern React Forms</title>
+                <title>Modern React Form - Sign up</title>
                 <meta name="description" content="Modern React Forms" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
